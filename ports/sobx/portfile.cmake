@@ -1,10 +1,8 @@
-include(vcpkg_common_functions)
-
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO planaria/sobx
-    REF 50004a062b1674820ebb9e2fc895b15b925fd28b
-    SHA512 2d477f9af2c69b7e11daa8913d55a0b8f8972e3c6f6ba3bf7a6ca8c696d9966be874537945d74fa67c563fc679d0eecdbf778fdc64fa42279cf63149ded49a77
+    REF bead8d0d44dd92a5337e9ea91cbd79b313e22be1
+    SHA512 6017eedd7b19d0fe7f325da95a7be1d3faa2b822160b0f56454bcc05250260590dd8e51f266ae4aa7219ec6d1381ec6e5d5d9c9599eb5b4f731613a24f4f0a4b
     HEAD_REF master
 )
 
