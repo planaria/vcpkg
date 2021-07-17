@@ -1,7 +1,7 @@
 vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL git@github.com:planaria/var.git
-    REF 4f565a9752d404b26b240fd475518b19d968cccc
+    REF d1cd878cd39460dd2a36c062f4eb26140c24fb16
 )
 
 vcpkg_cmake_configure(

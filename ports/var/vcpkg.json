@@ -7,6 +7,7 @@
     "boost-gil",
     "ffmpeg",
     "assimp",
+    "eigen3",
     {
       "name": "vcpkg-cmake",
       "host": true
